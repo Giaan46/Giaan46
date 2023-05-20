@@ -7,5 +7,9 @@
 
 ## Mis Repositorios 
 [ProyectoFinal_GianlucaMaida](https://github.com/Giaan46/ProyectoFinal_GianlucaMaida Estes es mi primer repositorio
-[!Hua's github stats](https://github-readme-stats.vercel.app/api??username=Giaan46&show_icons=true&theme=dark)
+
+
+
+### Contacto 
+[![Linkedin] (https://www.linkedin.com/in/gianluca-maida-188563219/)
 
