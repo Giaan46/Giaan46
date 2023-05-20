@@ -2,4 +2,4 @@
 
 ### aqui podran encontrar codigos que he ido aprendiendo y proyectos en los que estoy trabajando 
 
-![](https://i.blogs.es/2b741f/1366_2000/1366_2000.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt1qEScKy9wQU9xOFjkS5KYnodmmAL-G4Xkw&usqp=CAU)
