@@ -5,10 +5,11 @@
 
 
 ## Mis Repositorios: 
-ProyectoFinal_GianlucaMaida(https://github.com/Giaan46/ProyectoFinal_GianlucaMaida 
+#ProyectoFinal_GianlucaMaida(https://github.com/Giaan46/ProyectoFinal_GianlucaMaida 
 
 
 
 ### Contacto 
-[![Linkedin] (https://www.linkedin.com/in/gianluca-maida-188563219/)
+
+#Linkedin (https://www.linkedin.com/in/gianluca-maida-188563219/)
 
