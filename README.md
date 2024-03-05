@@ -9,7 +9,6 @@
 
 
 
-### Contacto 
-
+### Contacto: 
 ### Linkedin (https://www.linkedin.com/in/gianluca-maida-188563219/)
 
